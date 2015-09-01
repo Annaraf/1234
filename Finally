@@ -1,0 +1,6 @@
+module One  where
+
+add a 0 = a
+
+main = do
+     putStrLn "Yeay"
